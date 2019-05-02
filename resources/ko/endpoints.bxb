@@ -1,0 +1,12 @@
+endpoints {
+  authorization {
+    none
+    // or add OAuth configuration
+  }
+
+  action-endpoints {
+    action-endpoint (PickLotto) {
+      local-endpoint (pickLotto.js)
+    }
+  }
+}

@@ -1,0 +1,7 @@
+action (PickLotto) {
+  description (로또 번호를 뽑는다.)
+  collect{
+  }
+  type(Search)
+  output (Result)
+}
