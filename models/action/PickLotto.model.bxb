@@ -1,6 +1,10 @@
 action (PickLotto) {
   description (로또 번호를 뽑는다.)
-  collect{
+  collect {
+    input (numberOfPick) {
+      type (NumberOfPick)
+      min (Optional) max (One)
+    }
   }
   type(Search)
   output (Result)
