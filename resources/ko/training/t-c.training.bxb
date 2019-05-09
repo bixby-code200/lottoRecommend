@@ -1,5 +1,5 @@
 train (t-cmnp11injr03hwsn7pa19vp5l) {
-  utterance ("[g:Result] 로또 번호 (3)[v:NumberOfPick]개 추천해줘.")
-  plan (Y2BmkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+IzKGCThlD+aSBlDEwMjEDMACQZGUCACYIB)
-  last-modified (1557278498327)
+  utterance ("[g:ResultStructure] 로또 번호 (3)[v:NumberOfPick]개 추천해줘.")
+  plan (Y2BmUE7OT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pCS4pKk0uKS1KZZDFpiggMznbB8RnUMAmDaH800DKGJgYGIGYAUgyMoAAEwQDAA==)
+  last-modified (1557378159863)
 }

@@ -1,0 +1,26 @@
+result-view {
+  match: ResultStructure(result)
+  
+  message {
+    template ("#{value(result.msg)}")
+  }
+  
+  render {
+    layout {
+      section {
+        content {
+          title-area {
+            slot2 {
+              single-line {
+                text {
+                  value ("#{value(result.result)}")
+                  style (Title_S)
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

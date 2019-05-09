@@ -1,15 +1,15 @@
 train (t-snpe5l5wroknc2xnft7i6ahm7) {
-  utterance ("[g:Result] 로또번호 (4)[v:AddNumber]랑 (5)[v:AddNumber] 넣어서 추천해줘.")
-  plan (Y2BlkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+Jjl3ZMSYGwKJRmYWBkYGJgBtIMYBYTkGRg4AFCBqAoA0QGAA==)
-  last-modified (1557299744225)
+  utterance ("[g:ResultStructure] 로또번호 (4)[v:AddNumber]랑 (5)[v:AddNumber] 넣어서 추천해줘.")
+  plan (Y2BlUE7OT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pCS4pKk0uKS1KZZDFpiggMznbB8THLu2YkgJhUSjNwsDIwMTADKQZwCwmIMnAwAOEDEBRBogMAA==)
+  last-modified (1557378110989)
 }
 train (t-stlvqsl7yeunm8j8z14wsrdys) {
-  utterance ("[g:Result] 로또번호 (9)[v:AddNumber]랑 (10)[v:AddNumber] 넣어서 추천해줘.")
-  plan (Y2BlkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+Jjl3ZMSYGwKJRmYWBkYGJgBtIMYBYTkGRg4AFCBqAoA0QGAA==)
-  last-modified (1557299862232)
+  utterance ("[g:ResultStructure] 로또번호 (9)[v:AddNumber]랑 (10)[v:AddNumber] 넣어서 추천해줘.")
+  plan (Y2BlUE7OT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pCS4pKk0uKS1KZZDFpiggMznbB8THLu2YkgJhUSjNwsDIwMTADKQZwCwmIMnAwAOEDEBRBogMAA==)
+  last-modified (1557378068672)
 }
 train (t-sxqfuzvjnyygh7zbfvl1gszv2) {
-  utterance ("[g:Result] 로또번호 (1)[v:AddNumber]이랑 (2)[v:AddNumber:2] 넣어서 추천해줘.")
-  plan (Y2BlkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+Jjl3ZMSYGwKJRmYWBkYGJgBtIMYBYTkGRg4AFCBqAoA0QGAA==)
-  last-modified (1557299671731)
+  utterance ("[g:ResultStructure] 로또번호 (1)[v:AddNumber]이랑 (2)[v:AddNumber:2] 넣어서 추천해줘.")
+  plan (Y2BlUE7OT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pCS4pKk0uKS1KZZDFpiggMznbB8THLu2YkgJhUSjNwsDIwMTADKQZwCwmIMnAwAOEDEBRBogMAA==)
+  last-modified (1557378070866)
 }

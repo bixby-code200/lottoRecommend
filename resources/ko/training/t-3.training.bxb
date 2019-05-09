@@ -1,5 +1,5 @@
 train (t-34xccdozuta9l77nz9w1czbml) {
-  utterance ("[g:Result] 로또번호 (2)[v:AddNumber:2]랑 (3)[v:AddNumber:3] 넣어서 추천해줘.")
-  plan (Y2BlkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+Jjl3ZMSYGwKJRmYWBkYGJgBtIMYBYTkGRg4AFCBqAoA0QGAA==)
-  last-modified (1557299668344)
+  utterance ("[g:ResultStructure] 로또번호 (2)[v:AddNumber:2]랑 (3)[v:AddNumber:3] 넣어서 추천해줘.")
+  plan (Y2BlUE7OT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pCS4pKk0uKS1KZZDFpiggMznbB8THLu2YkgJhUSjNwsDIwMTADKQZwCwmIMnAwAOEDEBRBogMAA==)
+  last-modified (1557378118264)
 }

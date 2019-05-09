@@ -11,5 +11,5 @@ action (PickLotto) {
     }
   }
   type(Search)
-  output (Result)
+  output (ResultStructure)
 }

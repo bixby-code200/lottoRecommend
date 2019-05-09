@@ -1,0 +1,11 @@
+structure (ResultStructure) {
+  description (__DESCRIPTION__)
+  property (result) {
+    type (Result)
+    min (Required) max (One)
+  }
+  property (msg) {
+    type (Error)
+    min (Required) max (One)
+  }
+}

@@ -3,12 +3,14 @@ module.exports.function = function pickLotto (numberOfPick, addNumber) {
   let result = ''
   let numbers = []
   let n = 0
+  let error = false
   let iteration = 6
 // numberOfPick이 들어오면 iteration을 numberOfPick으로 설정
   if (numberOfPick) {
     iteration = numberOfPick
     if (iteration > 6) {
-      return '로또 번호는 6개입니다.'
+      iteration = 6
+      error = true
     }
   }
   
@@ -29,5 +31,15 @@ module.exports.function = function pickLotto (numberOfPick, addNumber) {
   numbers = numbers.sort(compare)
   result = numbers.join(', ')
   console.log(result)
-  return result
+  
+  let msg = '결과를 확인하세요.'
+  if (error) {
+    msg = '로또 번호는 6개입니다.'
+  }
+  const resultStructure = {
+    result: result,
+    msg: msg
+  }
+
+  return resultStructure
 }

@@ -1,5 +1,5 @@
 train (t-ifxcy4he6wuzvwa0cye5lyrdw) {
-  utterance ("[g:Result] 로또번호 (20)[v:AddNumber:20]넣어서 추천해줘.")
-  plan (Y2BmkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+Jjl3ZMSYGwGJgYGIGYAUgyMoAAEwQDAA==)
-  last-modified (1557281490597)
+  utterance ("[g:ResultStructure] 로또번호 (20)[v:AddNumber:20]넣어서 추천해줘.")
+  plan (Y2BmUE7OT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pCS4pKk0uKS1KZZDFpiggMznbB8THLu2YkgJhMTAxMAIxA5BkZAABJggGAA==)
+  last-modified (1557378103084)
 }
