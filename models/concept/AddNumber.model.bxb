@@ -1,0 +1,3 @@
+integer (AddNumber) {
+  description (추천 받을 때 추가할 번호)
+}

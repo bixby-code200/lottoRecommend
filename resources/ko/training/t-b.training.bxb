@@ -1,0 +1,10 @@
+train (t-bikxeppq0pkoxes6dfp637jj6) {
+  utterance ("[g:Result] 로또번호 (7)[v:AddNumber]이랑 (8)[v:AddNumber] 넣어서 추천해줘.")
+  plan (Y2BlkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+Jjl3ZMSYGwKJRmYWBkYGJgBtIMYBYTkGRg4AFCBqAoA0QGAA==)
+  last-modified (1557299808687)
+}
+train (t-bzsnwuxjiyt3vgu03gulf4bag) {
+  utterance ("[g:Result] 로또번호 (1)[v:AddNumber:1] (10)[v:AddNumber] (20)[v:AddNumber:20] 넣어서 추천해줘.")
+  plan (Y2BjkErOT0k1MjDQy8kvKcn3K81NSi3SC0otLs0pYZDFJheQmZztA+Jjl3ZMSYGwaCvNysDIwMTAzMACZDGA2SDICGTzgCEDUIYBKM8KogE=)
+  last-modified (1557281481070)
+}

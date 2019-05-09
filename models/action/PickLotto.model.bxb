@@ -5,6 +5,10 @@ action (PickLotto) {
       type (NumberOfPick)
       min (Optional) max (One)
     }
+    input (addNumber) {
+      type (AddNumber)
+      min (Optional) max (Many)
+    }
   }
   type(Search)
   output (Result)
